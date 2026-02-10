@@ -6,7 +6,7 @@ use App\Http\Controllers\Api\User\Auth\Mobile\LogoutController;
 use App\Http\Controllers\Api\User\Auth\Mobile\PasswordController;
 use App\Http\Controllers\api\User\Auth\Mobile\RegisterController;
 use App\Http\Controllers\Api\User\Auth\Mobile\VerifyController;
-use App\Http\Resources\User\Auth\UserResource;
+use App\Http\Resources\User\UserResource;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
